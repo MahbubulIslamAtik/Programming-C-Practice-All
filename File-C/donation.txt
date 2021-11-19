@@ -1,0 +1,5 @@
+Atik 100
+Asif 200
+Arafat 300
+Laboni 4
+Amma 500
